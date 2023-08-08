@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.text-aling {
+    margin-top: 30px;
+    padding : 30px;
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img
+{
+    width: 100%;
+
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.name-highlight{
+    color: #f1325f;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #f1325f;
+    padding:10px 25px;
+    border-radius: 10px;
+    color:aliceblue; 
+
+}
+.biograpy-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    margin: 0;
+}
+#work{
+    text-align: center;
+    margin-top: 80px;
+}
+.hal-width{
+    margin-top: 50px;
+    width: 28%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+.hal-width img
+{
+    width: 100%;
+}
+.latest-work
+{
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.client
+{
+    text-align: center;
+    font-weight: bold;
+}
+.client-say
+{
+    text-align: center;
+    font-size: 10px;
+
+}
+.client-work
+{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 15px;
+
+}
+.mail-box
+{
+    text-align:center;
+    background-color: #f1325f;
+    padding : 30px 70px;
+    margin: 3% 32% 0% 32%;
+    border-radius: 10px;
+    color:aliceblue;
+    font-size: 12px;
+}
+.client-work
+{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    padding-bottom: 0;
+
+}
+footer{
+    margin: 0;
+    text-align: center;
+    color: darkcyan;
+}
+p{
+    color: darkcyan;
+}
